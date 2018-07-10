@@ -6,7 +6,7 @@ squares =0
 for i in range(1,101):
     #add i value to sum
     sum = sum + i
-    #add i2 value to squares
+    #add i**2 value to squares
     squares = squares = i**2
     #diff is differnce betweeb sum of sqaures and squares sum
     diff =  sum**2 - squares
