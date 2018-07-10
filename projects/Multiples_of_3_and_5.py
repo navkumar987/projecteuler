@@ -6,5 +6,5 @@ for n in range(1,1000):
     if(n%3 == 0 or n%5==0):
         #adding the n value to sum value
         sum = sum + n
-        #return the cumulative sum value
+        #print the cumulative sum value
         print(sum)
